@@ -1,2 +1,2 @@
 # vawebsite
-Portfolio website for voice actor Lisa Reimold
+Portfolio website for voice actor Lisa Reimold, written by me!
